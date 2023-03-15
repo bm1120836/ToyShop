@@ -1,0 +1,4 @@
+Toy [id=3, name=Dog, weight=65.0]
+Toy [id=1, name=Car, weight=40.0]
+Toy [id=0, name=Dunky, weight=25.0]
+Toy [id=2, name=Cat, weight=3.0]
